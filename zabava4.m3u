@@ -1,0 +1,85 @@
+#EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz"
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="pervy-pl4", Первый (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="rossia1-pl4", Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="match-tv", Матч!
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="ntv-pl4", НТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="5kanal-ru-pl4", Пятый (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="kultura-pl4", Россия К (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="rossia-24", Россия 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="karusel-pl4", Карусель (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="tvcentr-pl4", ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="rentv-pl4", РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="spas-pl2", Спас
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="sts-pl4", СТС (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="domashny-pl4", Домашний (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="tv3-ru-pl4", ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="piatnica-pl4", Пятница (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="zvezda-pl4", Звезда (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="mir-pl4", МИР (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="tnt-pl4", ТНТ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="muztv-pl4", МУЗ-ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="2na2-pl4", 2x2 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="sts-love-pl4", СТС Love (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="solnce-pl4", Солнце (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="super-pl4", Суббота (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="tnt4-pl4", ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="che-pl4", Че! (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="yu-pl4", Ю (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК", Всё ТВ HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="moskva-24", Москва 24 HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz"
 #EXTINF:-1 group-title="КРАСНОЯРСК" tvg-id="pervy-pl4", Первый (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8

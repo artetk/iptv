@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="http://epg.it999.ru/ru.xml.gz"
 #EXTINF:1 tvg-id="NTV.ru@Plus4" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="+4",НТВ +4 (576p)
 #EXTGRP:Красноярск
 https://cdn.ntv.ru/ntv4/playlist.m3u8
@@ -46,138 +46,115 @@ http://31.148.48.15/STS/index.m3u8
 http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:1 group-title="Красноярск",Всё ТВ HD
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:1 group-title="Красноярск" tvg-id="moskva-24",Москва 24 HD
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="karusel-pl4",Карусель (Красноярск)
+#EXTINF:1 group-title="Красноярск" tvg-id="pervy-pl4",Первый
 #EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_KARUSEL/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="muztv-pl4",МУЗ-ТВ (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_MUZTV/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tnt4-pl2",ТНТ4 (+2) (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT4_2/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tnt4-pl7",ТНТ4 (+7) (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT4_7/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="pervy-pl4",Первый (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_1TV_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="rossia1-pl4",Россия 1 (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="match-tv",Матч ТВ (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="ntv-pl4",НТВ (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="rentv-pl4",РЕН ТВ (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="spas-pl2",Спас (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_SPAS_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="sts-pl4",СТС (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="domashny-pl4",Домашний (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tv3-ru-pl4",ТВ-3 (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="piatnica-pl4",Пятница! (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tnt-pl4",ТНТ (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KRASN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="otr-pl4",ОТР (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTR_KRSN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="mir-pl4",МИР (Красноярск)
-#EXTGRP:Забава
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_MIR_KRSN/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="pervy-pl4",Первый (Красноярский КР)
-#EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="rossia1-pl4",Россия 1 (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="rossia1-pl4",Россия 1
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="ntv-pl4",НТВ (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="ntv-pl4",НТВ
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="5kanal-ru-pl4",Пятый (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="5kanal-ru-pl4",Пятый
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="kultura-pl4",Россия К (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="kultura-pl4",Россия К
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="rossia-24",Россия 24 (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="rossia-24",Россия 24
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="karusel-pl4",Карусель (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="karusel-pl4",Карусель
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="otr-pl4",ОТР (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="otr-pl4",ОТР
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tvcentr-pl4",ТВ Центр (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="tvcentr-pl4",ТВ Центр
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="rentv-pl4",РЕН ТВ (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="rentv-pl4",РЕН ТВ
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="spas-pl2",Спас (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="spas-pl2",Спас
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_SPAS_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="sts-pl4",СТС (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="sts-pl4",СТС
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="domashny-pl4",Домашний (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="domashny-pl4",Домашний
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tv3-ru-pl4",ТВ-3 (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="tv3-ru-pl4",ТВ-3
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="piatnica-pl4",Пятница! (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="piatnica-pl4",Пятница!
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="zvezda-pl4",Звезда (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="zvezda-pl4",Звезда
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="mir-pl4",МИР (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="mir-pl4",МИР
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tnt-pl4",ТНТ (Красноярский КР)
+#EXTINF:1 group-title="Красноярск" tvg-id="tnt-pl4",ТНТ
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KRASN_KRAI/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="achinskoetv",АТВ (Ачинск)
+#EXTINF:1 group-title="Красноярск" tvg-id="achinskoetv",АТВ
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ACHINSKOETV/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="enisey-region",Енисей (Красноярск)
+#EXTINF:1 group-title="Красноярск" tvg-id="enisey-region",Енисей
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8
-#EXTINF:1 group-title="Красноярск",Пирамида-ТВ (Назарово)
+#EXTINF:1 group-title="Красноярск",Пирамида-ТВ
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_PYRAMID_NAZAR/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="tvk-krasnoyarsk",ТВК (Красноярск)
+#EXTINF:1 group-title="Красноярск" tvg-id="tvk-krasnoyarsk",ТВК
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TVK24/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="8kanal-krasnoyarsk",Восьмой канал (Красноярский край)
+#EXTINF:1 group-title="Красноярск" tvg-id="8kanal-krasnoyarsk",Восьмой канал
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8
-#EXTINF:1 group-title="Красноярск",ТВин (Зеленогорск)
+#EXTINF:1 group-title="Красноярск",ТВин
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTK_ZEL/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="prima",Прима (Красноярск)
+#EXTINF:1 group-title="Красноярск" tvg-id="prima",Прима
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="7kanal-krasnoyarsk",Седьмой канал (Красноярск)
+#EXTINF:1 group-title="Красноярск" tvg-id="7kanal-krasnoyarsk",Седьмой канал
 #EXTGRP:Забава
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
 #EXTINF:1 group-title="SMOTRIM" tvg-id="360.ru@SD",360° (1080p)
 #EXTGRP:Смотрим

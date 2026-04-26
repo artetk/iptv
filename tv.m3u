@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:1 tvg-id="NTV.ru@Plus4" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="+4",НТВ +4 (576p)
 #EXTGRP:Красноярск
 https://cdn.ntv.ru/ntv4/playlist.m3u8

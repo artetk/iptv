@@ -48,11 +48,11 @@ http://31.148.48.15/TNT4/index.m3u8
 #EXTGRP:Забава
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="moskva-24",Москва 24 HD
+#EXTINF:1 group-title="Красноярск" tvg-id="moskva-24" tvg-shift="+4",Москва 24 HD
 #EXTGRP:Забава
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
-#EXTINF:1 group-title="Красноярск" tvg-id="pervy-pl4",Первый
+#EXTINF:1 group-title="Красноярск" tvg-id="pervy-pl4" tvg-shift="+4",Первый
 #EXTGRP:Забава
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
